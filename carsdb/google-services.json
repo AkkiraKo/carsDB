@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1092762311820",
+    "project_id": "jan-2021-carsdb-c04ac",
+    "storage_bucket": "jan-2021-carsdb-c04ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092762311820:android:6ef58581fff9b3a4ba2fa9",
+        "android_client_info": {
+          "package_name": "me.Akkirako.carsdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092762311820-2p56mig253pel31ihb8853hb923an7p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.Akkirako.carsdb",
+            "certificate_hash": "1931450e6636aa5dba87a2885ce3b3a801a25702"
+          }
+        },
+        {
+          "client_id": "1092762311820-qml8r4h84ihdclib9bsvp5bbh3268953.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO6RyAnFtif8aefLIrHbCzRWQigjtCYGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092762311820-qml8r4h84ihdclib9bsvp5bbh3268953.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
